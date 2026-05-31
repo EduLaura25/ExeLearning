@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605311708351XGJM3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260531170835AGJ9RM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Investigamos y divulgamos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Unidad: Estadística Bidimensional</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Laura Antequera Pérez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Enseñanza y curso:  4ºESO
+Nombre materia: Matemáticas B
+Nombre de la unidad: Estadística Bidimensional
+Descripción: [resumen del apartado &quot;De que trata esta tarea&quot;]</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780233740263</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpscaobg-7qmc94cji</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Iniciamos nuestra investigación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Iniciamos nuestra investigación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Iniciamos nuestra investigación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Iniciamos nuestra investigación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobg-7qmc94cji</odePageId>
+      <odeBlockId>block-mplezspw-d18w4uqpl</odeBlockId>
+      <blockName>¿De qué trata este proyecto?</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobg-7qmc94cji</odePageId>
+          <odeBlockId>block-mplezspw-d18w4uqpl</odeBlockId>
+          <odeIdeviceId>idevice-mplezspw-cm02kez16</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/deng-xiang--WXQm_NTK0U-unsplash.jpg" title="Datos en gráficas" width="1536" height="1021" alt=" Imagen de Unsplash (Autor: Deng Xiang)"></p>
+
+<p style="text-align: justify;">Hoy en día estamos rodeados de millones de datos (en redes sociales, medicina, videojuegos...). En la actualidad las empresas y los puestos de trabajo relacionados con la ciencia de datos no calculan las estadísticas con lápiz y papel; utilizan herramientas digitales avanzadas. ¡Y eso es exactamente lo que vais a hacer vosotros!</p>
+<p style="text-align: justify;">Olvidaos de los cálculos largos y tediosos a mano. Vamos a utilizar el ordenador para procesar toda la información. Aprenderéis a:</p>
+<ul>
+<li style="text-align: justify;">Organizar y limpiar grandes masas de datos.</li>
+<li style="text-align: justify;">Generar gráficos para ver visualmente la tendencia.</li>
+<li style="text-align: justify;">Hallar de forma automática la recta de regresión y descubrir su ecuación matemática.</li>
+</ul>
+<p>De esta forma, podréis centraros en lo verdaderamente importante:&nbsp; interpretar qué significan los números, detectar patrones y sacar vuestras propias conclusiones críticas.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobg-7qmc94cji</odePageId>
+      <odeBlockId>block-1779729675852-kgxd1yhpe</odeBlockId>
+      <blockName>¿Cómo vamos a trabajar?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobg-7qmc94cji</odePageId>
+          <odeBlockId>block-1779729675852-kgxd1yhpe</odeBlockId>
+          <odeIdeviceId>idevice-1779729675850-r42q045bh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Vamos a trabajar de forma cooperativa en equipos de investigación, al igual que hacen los analistas de datos en sus empresas. Cada grupo elegirá un curso de secundaria del centro y, con la ayuda de sus tutores, lanzaréis una encuesta digital totalmente anónima a través de Google Classroom.</p>
+<p>Inicialmente, os proponemos estudiar dos variables sencillas:</p>
+<ul>
+<li>El promedio semanal de uso diario del móvil (dato que vuestro propio teléfono registra automáticamente).</li>
+<li>La nota media obtenida en la última evaluación.</li>
+</ul>
+<p style="text-align: justify;">No obstante, esta propuesta es solo un punto de partida. Cada equipo podrá plantear otras variables que considere interesantes, siempre que sean adecuadas para realizar un estudio estadístico bidimensional.</p>
+<p>Vuestro objetivo será obtener una muestra de entre 60 y 70 respuestas para que el estudio tenga cierta fiabilidad y permita extraer conclusiones razonables.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779729675850-r42q045bh","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p style=\"text-align: justify;\">Vamos a trabajar de forma cooperativa en equipos de investigación, al igual que hacen los analistas de datos en sus empresas. Cada grupo elegirá un curso de secundaria del centro y, con la ayuda de sus tutores, lanzaréis una encuesta digital totalmente anónima a través de Google Classroom.</p>\n<p>Inicialmente, os proponemos estudiar dos variables sencillas:</p>\n<ul>\n<li>El promedio semanal de uso diario del móvil (dato que vuestro propio teléfono registra automáticamente).</li>\n<li>La nota media obtenida en la última evaluación.</li>\n</ul>\n<p style=\"text-align: justify;\">No obstante, esta propuesta es solo un punto de partida. Cada equipo podrá plantear otras variables que considere interesantes, siempre que sean adecuadas para realizar un estudio estadístico bidimensional.</p>\n<p>Vuestro objetivo será obtener una muestra de entre 60 y 70 respuestas para que el estudio tenga cierta fiabilidad y permita extraer conclusiones razonables.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobk-zqbhmvwzl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Tus derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Tus derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Tus derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobk-zqbhmvwzl</odePageId>
+      <odeBlockId>block-1779730500978-161zz2ykg</odeBlockId>
+      <blockName>Sí, has leído bien... Vamos a trabajar con datos.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobk-zqbhmvwzl</odePageId>
+          <odeBlockId>block-1779730500978-161zz2ykg</odeBlockId>
+          <odeIdeviceId>idevice-1779730500977-bxac128r8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><span style="color: #843fa1;"><strong>Datos y Derechos Digitales</strong></span></h4>
+<p style="text-align: justify;">Antes de lanzar nuestros formularios de Google Classroom a los otros cursos y empezar a recoger las respuestas, tenemos que hacer una parada obligatoria. Como investigadores/as, manejamos información de personas reales, por lo que debemos ser impecables cumpliendo la ley de protección de datos (RGPD).</p>
+<p style="text-align: justify;"><br /></p>
+<hr />
+<h5><span style="color: #843fa1;"><strong>¿Por qué esta encuesta debe ser anónima?</strong></span></h5>
+<p style="text-align: justify;">Cuando preguntamos a alguien cuántas horas pasa con el móvil o qué notas saca, estamos vulnerando su privacidad.</p>
+<p>Por eso, nuestro formulario digital se debe diseñar bajo el principio de anonimato absoluto:</p>
+<ul>
+<li>No recopilaremos direcciones de correo.</li>
+<li>No pediremos nombres ni apellidos.</li>
+<li>Los datos se guardarán de forma automática en un único documento del que será imposible deducir quién ha contestado qué.</li>
+</ul>
+<p><br /></p>
+<hr />
+<h5><span style="color: #843fa1;"><strong>Infografía sobre tus derechos y garantías digitales</strong></span></h5>
+<p style="text-align: justify;">Echad un vistazo a la siguiente infografía que resume de forma muy visual los derechos que os protegen en la red y las garantías que nosotros, como equipo de investigación, debemos asegurar a nuestros compañeros/as:</p>
+<p><img src="{{context_path}}/content/resources/INFOGRAFÍA LICENCIAS Y SEGURIDAD.jpg" title="Supervivencia digital" width="500" height="1429" alt="Guía sobre los derechos y garantías digitales." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779730500977-bxac128r8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><span style=\"color: #843fa1;\"><strong>Datos y Derechos Digitales</strong></span></h4>\n<p style=\"text-align: justify;\">Antes de lanzar nuestros formularios de Google Classroom a los otros cursos y empezar a recoger las respuestas, tenemos que hacer una parada obligatoria. Como investigadores/as, manejamos información de personas reales, por lo que debemos ser impecables cumpliendo la ley de protección de datos (RGPD).</p>\n<p style=\"text-align: justify;\"><br /></p>\n<hr />\n<h5><span style=\"color: #843fa1;\"><strong>¿Por qué esta encuesta debe ser anónima?</strong></span></h5>\n<p style=\"text-align: justify;\">Cuando preguntamos a alguien cuántas horas pasa con el móvil o qué notas saca, estamos vulnerando su privacidad.</p>\n<p>Por eso, nuestro formulario digital se debe diseñar bajo el principio de anonimato absoluto:</p>\n<ul>\n<li>No recopilaremos direcciones de correo.</li>\n<li>No pediremos nombres ni apellidos.</li>\n<li>Los datos se guardarán de forma automática en un único documento del que será imposible deducir quién ha contestado qué.</li>\n</ul>\n<p><br /></p>\n<hr />\n<h5><span style=\"color: #843fa1;\"><strong>Infografía sobre tus derechos y garantías digitales</strong></span></h5>\n<p style=\"text-align: justify;\">Echad un vistazo a la siguiente infografía que resume de forma muy visual los derechos que os protegen en la red y las garantías que nosotros, como equipo de investigación, debemos asegurar a nuestros compañeros/as:</p>\n<p><img src=\"{{context_path}}/content/resources/INFOGRAFÍA LICENCIAS Y SEGURIDAD.jpg\" title=\"Supervivencia digital\" width=\"500\" height=\"1429\" alt=\"Guía sobre los derechos y garantías digitales.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobm-zlecm0bqu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. El laboratorio de estadística bidimensional</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. El laboratorio de estadística bidimensional</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. El laboratorio de estadística bidimensional</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobm-zlecm0bqu</odePageId>
+      <odeBlockId>block-1779732311790-ebo5bccwn</odeBlockId>
+      <blockName>Bienvenidos al laboratorio de los datos</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobm-zlecm0bqu</odePageId>
+          <odeBlockId>block-1779732311790-ebo5bccwn</odeBlockId>
+          <odeIdeviceId>idevice-1779732311788-90hdboxaf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Vuestros formularios ya están echando humo y las respuestas de vuestros compañeros están llegando! Pero... ¿qué hacemos ahora con una lista enorme de 70 filas llenas de números sueltos?</p>
+<p style="text-align: justify;">Aquí es donde nos ponemos la bata de científicos. Entramos de lleno en la Estadística Bidimensional. A diferencia de la estadística que estudiasteis en años anteriores (donde solo mirabais una única variable, como la altura de los compañeros de una clase), en este laboratorio va a entrar en juego el<strong> análisis de dos características o variables al mismo tiempo</strong>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779732311788-90hdboxaf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Vuestros formularios ya están echando humo y las respuestas de vuestros compañeros están llegando! Pero... ¿qué hacemos ahora con una lista enorme de 70 filas llenas de números sueltos?</p>\n<p style=\"text-align: justify;\">Aquí es donde nos ponemos la bata de científicos. Entramos de lleno en la Estadística Bidimensional. A diferencia de la estadística que estudiasteis en años anteriores (donde solo mirabais una única variable, como la altura de los compañeros de una clase), en este laboratorio va a entrar en juego el<strong> análisis de dos características o variables al mismo tiempo</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobo-ktihvcg01</odePageId>
+  <odeParentPageId>page-mpscaobm-zlecm0bqu</odeParentPageId>
+  <pageName>2.1. Variables bidimensionales y nube de puntos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Variables bidimensionales y nube de puntos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Variables bidimensionales y nube de puntos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobo-ktihvcg01</odePageId>
+      <odeBlockId>block-1779732534342-c1iu6eovo</odeBlockId>
+      <blockName>Nuestras variables estadísticas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobo-ktihvcg01</odePageId>
+          <odeBlockId>block-1779732534342-c1iu6eovo</odeBlockId>
+          <odeIdeviceId>idevice-1779732534340-nw7ovg7lr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En estadística tradicional medimos una variable independiente. Pero en el mundo real, los fenómenos son complejos. Para estudiar la relación entre, por ejemplo, el uso del móvil y los resultados académicos, necesitamos la estadística bidimensional, que trabaja con variables conjuntas \((X, Y)\).</p>
+<p style="text-align: justify;">En cada encuesta que habéis recogido, obtenéis un par de datos por alumno. A esto lo llamamos una variable bidimensional:</p>
+<ul>
+<li><strong>Variable \(X\)</strong> (variable independiente): El tiempo de uso diario del móvil (horas). Es la causa que queremos investigar.</li>
+<li><strong>Variable \(Y\)</strong> (variable dependiente): La nota media académica. Es el efecto que sospechamos que puede cambiar según la \(X\).</li>
+</ul>
+<p style="text-align: justify;">Cada alumno encuestado será un punto en nuestro laboratorio matemáticamente definido como \((x_i, y_i)\). Por ejemplo, si el <em>Alumno 1</em> usa el móvil 4 horas al día y tiene un 7.5 de nota media, sus coordenadas serán: \((4, 7.5)\).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779732534340-nw7ovg7lr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En estadística tradicional medimos una variable independiente. Pero en el mundo real, los fenómenos son complejos. Para estudiar la relación entre, por ejemplo, el uso del móvil y los resultados académicos, necesitamos la estadística bidimensional, que trabaja con variables conjuntas \\((X, Y)\\).</p>\n<p style=\"text-align: justify;\">En cada encuesta que habéis recogido, obtenéis un par de datos por alumno. A esto lo llamamos una variable bidimensional:</p>\n<ul>\n<li><strong>Variable \\(X\\)</strong> (variable independiente): El tiempo de uso diario del móvil (horas). Es la causa que queremos investigar.</li>\n<li><strong>Variable \\(Y\\)</strong> (variable dependiente): La nota media académica. Es el efecto que sospechamos que puede cambiar según la \\(X\\).</li>\n</ul>\n<p style=\"text-align: justify;\">Cada alumno encuestado será un punto en nuestro laboratorio matemáticamente definido como \\((x_i, y_i)\\). Por ejemplo, si el <em>Alumno 1</em> usa el móvil 4 horas al día y tiene un 7.5 de nota media, sus coordenadas serán: \\((4, 7.5)\\).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobo-ktihvcg01</odePageId>
+      <odeBlockId>block-1779732768494-991is44d8</odeBlockId>
+      <blockName>Nuestra nube de puntos</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobo-ktihvcg01</odePageId>
+          <odeBlockId>block-1779732768494-991is44d8</odeBlockId>
+          <odeIdeviceId>idevice-1779732768493-gax74oz13</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Si cogemos las 70 respuestas de nuestra encuesta y dibujamos cada pareja de datos como un punto en unos ejes de coordenadas cartesianas (el eje horizontal para las horas de móvil y el vertical para las notas), el resultado es una <strong>nube de puntos.</strong></p>
+<p>Al mirar la nube de puntos a nivel global, vuestro ojo matemático empezará a detectar patrones de forma inmediata:</p>
+<ul style="list-style-type: circle;">
+<li><strong>Tendencia creciente:</strong> Si los puntos suben de izquierda a derecha (a más móvil, ¿más nota?).</li>
+<li><strong>Tendencia decreciente:</strong> Si los puntos bajan de izquierda a derecha (a más móvil, ¿menos nota?).</li>
+<li><strong>Sin tendencia (forma de nube caótica):</strong> Si los puntos están dispersos sin ningún orden o patrón, lo que significará que ambas cosas no tienen nada que ver.</li>
+</ul>
+<p>Echa un vistazo al siguiente vídeo explicativo para entender y ver cómo son las nubes de puntos que obtendréis en el ordenador:</p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/swqmjtwJr-E?si=TFotcwKIQw9wYP1E" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779732768493-gax74oz13","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Si cogemos las 70 respuestas de nuestra encuesta y dibujamos cada pareja de datos como un punto en unos ejes de coordenadas cartesianas (el eje horizontal para las horas de móvil y el vertical para las notas), el resultado es una <strong>nube de puntos.</strong></p>\n<p>Al mirar la nube de puntos a nivel global, vuestro ojo matemático empezará a detectar patrones de forma inmediata:</p>\n<ul style=\"list-style-type: circle;\">\n<li><strong>Tendencia creciente:</strong> Si los puntos suben de izquierda a derecha (a más móvil, ¿más nota?).</li>\n<li><strong>Tendencia decreciente:</strong> Si los puntos bajan de izquierda a derecha (a más móvil, ¿menos nota?).</li>\n<li><strong>Sin tendencia (forma de nube caótica):</strong> Si los puntos están dispersos sin ningún orden o patrón, lo que significará que ambas cosas no tienen nada que ver.</li>\n</ul>\n<p>Echa un vistazo al siguiente vídeo explicativo para entender y ver cómo son las nubes de puntos que obtendréis en el ordenador:</p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/swqmjtwJr-E?si=TFotcwKIQw9wYP1E\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+  <odeParentPageId>page-mpscaobm-zlecm0bqu</odeParentPageId>
+  <pageName>2.2. Recta de regresión y correlación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Recta de regresión y correlación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Recta de regresión y correlación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+      <odeBlockId>block-1779824507397-uav8jm87s</odeBlockId>
+      <blockName>¿Están conectadas las dos variables estadísticas de nuestro estudio?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+          <odeBlockId>block-1779824507397-uav8jm87s</odeBlockId>
+          <odeIdeviceId>idevice-1779824507391-oedglcs98</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La <strong>correlación</strong> nos indica el grado de relación que existe entre nuestras dos variables. Puede ser de tres tipos:</p>
+<ul>
+<li><strong>Correlación positiva</strong> (o directa): Al aumentar el uso del móvil, aumenta la nota media.</li>
+<li><strong>Correlación negativa</strong> (o inversa): Al aumentar el uso del móvil, la nota media disminuye.</li>
+<li><strong>Correlación nula</strong>: Los datos son totalmente independientes. El móvil no influye en las notas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779824507391-oedglcs98","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La <strong>correlación</strong> nos indica el grado de relación que existe entre nuestras dos variables. Puede ser de tres tipos:</p>\n<ul>\n<li><strong>Correlación positiva</strong> (o directa): Al aumentar el uso del móvil, aumenta la nota media.</li>\n<li><strong>Correlación negativa</strong> (o inversa): Al aumentar el uso del móvil, la nota media disminuye.</li>\n<li><strong>Correlación nula</strong>: Los datos son totalmente independientes. El móvil no influye en las notas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+      <odeBlockId>block-1779819210018-9nnyoetz1</odeBlockId>
+      <blockName>Modelo de predicción</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+          <odeBlockId>block-1779819210018-9nnyoetz1</odeBlockId>
+          <odeIdeviceId>idevice-1779819209973-sdsdqeypd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si la nube de puntos tiene una tendencia clara, el ordenador calculará una línea recta perfecta que pasa "por el centro" de todos nuestros puntos, minimizando las distancias a cada uno de ellos. Esta es la llamada <strong>recta de regresión</strong>.</p>
+<figure class="exe-figure position-center" style="width: 467px;"><img src="{{context_path}}/content/resources/Linear_regression.svg" title="Ejemplo de recta de regresión" width="467" height="308" alt="Nube de puntos y recta de regresión ajustada a dichos puntos" />
+<figcaption class="figcaption"><span class="author">Sewaqu (Sagemath)</span>.</figcaption>
+</figure>
+<p>Dicha recta tiene una ecuación matemática del tipo:</p>
+<p>\(y = mx + n\)</p>
+<p>Si vuestra recta es fiable y un compañero nuevo os dice: "Yo uso el móvil 5 horas al día", podréis sustituir la \(x=5\) en vuestra fórmula matemática y estimar qué nota media aproximada obtendrá.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779819209973-sdsdqeypd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si la nube de puntos tiene una tendencia clara, el ordenador calculará una línea recta perfecta que pasa \"por el centro\" de todos nuestros puntos, minimizando las distancias a cada uno de ellos. Esta es la llamada <strong>recta de regresión</strong>.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 467px;\"><img src=\"{{context_path}}/content/resources/Linear_regression.svg\" title=\"Ejemplo de recta de regresión\" width=\"467\" height=\"308\" alt=\"Nube de puntos y recta de regresión ajustada a dichos puntos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Sewaqu (Sagemath)</span>.</figcaption>\n</figure>\n<p>Dicha recta tiene una ecuación matemática del tipo:</p>\n<p>\\(y = mx + n\\)</p>\n<p>Si vuestra recta es fiable y un compañero nuevo os dice: \"Yo uso el móvil 5 horas al día\", podréis sustituir la \\(x=5\\) en vuestra fórmula matemática y estimar qué nota media aproximada obtendrá.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+      <odeBlockId>block-1779824270278-fa2l9la1h</odeBlockId>
+      <blockName>Pero, ¿el modelo es bueno?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+          <odeBlockId>block-1779824270278-fa2l9la1h</odeBlockId>
+          <odeIdeviceId>idevice-1779824270276-rbtdf4gm8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si los puntos de la nube están muy separados de la línea, las predicciones fallarán. Para saber si nuestra recta es "buena", el ordenador nos dará un valor llamado \(R^2\) (<strong>coeficiente de determinación</strong>):</p>
+<p>El valor de \(R^2\) siempre está entre 0 y 1.</p>
+<ul>
+<li>Si está muy <strong>cerca de 1</strong> (por ejemplo, 0.89): La recta es súper fiable y los datos reales se ajustan perfectamente a la teoría.</li>
+<li>Si está <strong>cerca de 0</strong> (por ejemplo, 0.15): La recta no sirve para nada; hay demasiada dispersión y vuestras conclusiones no serán fiables.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779824270276-rbtdf4gm8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si los puntos de la nube están muy separados de la línea, las predicciones fallarán. Para saber si nuestra recta es \"buena\", el ordenador nos dará un valor llamado \\(R^2\\) (<strong>coeficiente de determinación</strong>):</p>\n<p>El valor de \\(R^2\\) siempre está entre 0 y 1.</p>\n<ul>\n<li>Si está muy <strong>cerca de 1</strong> (por ejemplo, 0.89): La recta es súper fiable y los datos reales se ajustan perfectamente a la teoría.</li>\n<li>Si está <strong>cerca de 0</strong> (por ejemplo, 0.15): La recta no sirve para nada; hay demasiada dispersión y vuestras conclusiones no serán fiables.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+      <odeBlockId>block-1779825086865-bswu31hx8</odeBlockId>
+      <blockName>¡OJO! Correlación no implica causalidad</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobp-44lrxduv3</odePageId>
+          <odeBlockId>block-1779825086865-bswu31hx8</odeBlockId>
+          <odeIdeviceId>idevice-1779825086858-1ucb5quqa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Abrid bien los ojos con esto a la hora de obtener conclusiones. Que la matemática diga que a más móvil hay menos nota (correlación negativa) no significa obligatoriamente que el móvil sea la causa directa.</p>
+<p>¿Podría ser que los alumnos que estudian menos se aburran más y por eso miren más el móvil? ¿O que haya terceras variables (como el sueño o la motivación)? Vuestro trabajo como investigadores será analizar el dato matemático con pensamiento crítico.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779825086858-1ucb5quqa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Abrid bien los ojos con esto a la hora de obtener conclusiones. Que la matemática diga que a más móvil hay menos nota (correlación negativa) no significa obligatoriamente que el móvil sea la causa directa.</p>\n<p>¿Podría ser que los alumnos que estudian menos se aburran más y por eso miren más el móvil? ¿O que haya terceras variables (como el sueño o la motivación)? Vuestro trabajo como investigadores será analizar el dato matemático con pensamiento crítico.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobr-mcl0prgvj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Herramientas digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Herramientas digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobr-mcl0prgvj</odePageId>
+      <odeBlockId>block-1779906989375-guuvfq2cn</odeBlockId>
+      <blockName>Guía - Tutorial</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobr-mcl0prgvj</odePageId>
+          <odeBlockId>block-1779906989375-guuvfq2cn</odeBlockId>
+          <odeIdeviceId>idevice-1779906989366-56blvmh2x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Llegó el momento de encender los ordenadores! En esta sección vais a aprender paso a paso cómo transformar el caos de respuestas de vuestra encuesta en un <strong>análisis estadístico utilizando la hoja de cálculo de Google Sheets</strong>.</p>
+<p><br /></p>
+<p><span style="background-color: #eccafa;"><strong>Paso 1: Importar los datos a Google Sheets</strong></span></p>
+<ul>
+<li>Entrad en vuestro <strong>Google Forms</strong> donde habéis recogido las 70 respuestas.</li>
+<li>Buscad la pestaña superior que dice "<strong>Respuestas</strong>".</li>
+<li>Haced clic en el icono verde que parece una cruz blanca o un cuadrado verde: "<strong>Vincular con Hojas de cálculo</strong>".</li>
+<li>¡Listo! Se os abrirá una pestaña nueva con todos los números organizados por columnas de forma automática.</li>
+</ul>
+<p><br /></p>
+<p><strong><span style="background-color: #eccafa;">Paso 2: Limpieza de errores</span></strong></p>
+<p>Revisad la tabla fila por fila y buscad datos que puedan estropear el estudio:</p>
+<ul>
+<li>Si un alumno ha puesto que usa el móvil "27 horas al día"...</li>
+<li>Si alguien ha escrito texto en vez de números (por ejemplo: "un par de horas" o "un siete")...</li>
+</ul>
+<p>Eliminad esa fila concreta para que el ordenador no se confunda al calcular.</p>
+<p><br /></p>
+<p><span style="background-color: #eccafa;"><strong>Paso 3: Crear la Nube de Puntos y la Recta de Regresión</strong></span><br /></p>
+<ol>
+<li>Seleccionad con el ratón las dos columnas completas con los datos: la columna de Horas de móvil (X) y la de Nota media (Y).</li>
+<li>Id al menú superior: Insertar ➔ Gráfico.</li>
+<li>En el panel de la derecha (Editor de gráficos), buscad la opción "Tipo de gráfico" y cambiadlo a "Gráfico de dispersión" (veréis que aparecen vuestros puntos flotando).</li>
+<li>Para añadir la recta, id a la pestaña Personalizar ➔ Serie.</li>
+<li>Bajad un poco y activad la casilla "Línea de tendencia" (¡esta es vuestra recta de regresión!).</li>
+<li>Justo debajo, en Etiqueta, seleccionad "Usar ecuación" y activad también la casilla "Mostrar \(R^2\)".</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779906989366-56blvmh2x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Llegó el momento de encender los ordenadores! En esta sección vais a aprender paso a paso cómo transformar el caos de respuestas de vuestra encuesta en un <strong>análisis estadístico utilizando la hoja de cálculo de Google Sheets</strong>.</p>\n<p><br /></p>\n<p><span style=\"background-color: #eccafa;\"><strong>Paso 1: Importar los datos a Google Sheets</strong></span></p>\n<ul>\n<li>Entrad en vuestro <strong>Google Forms</strong> donde habéis recogido las 70 respuestas.</li>\n<li>Buscad la pestaña superior que dice \"<strong>Respuestas</strong>\".</li>\n<li>Haced clic en el icono verde que parece una cruz blanca o un cuadrado verde: \"<strong>Vincular con Hojas de cálculo</strong>\".</li>\n<li>¡Listo! Se os abrirá una pestaña nueva con todos los números organizados por columnas de forma automática.</li>\n</ul>\n<p><br /></p>\n<p><strong><span style=\"background-color: #eccafa;\">Paso 2: Limpieza de errores</span></strong></p>\n<p>Revisad la tabla fila por fila y buscad datos que puedan estropear el estudio:</p>\n<ul>\n<li>Si un alumno ha puesto que usa el móvil \"27 horas al día\"...</li>\n<li>Si alguien ha escrito texto en vez de números (por ejemplo: \"un par de horas\" o \"un siete\")...</li>\n</ul>\n<p>Eliminad esa fila concreta para que el ordenador no se confunda al calcular.</p>\n<p><br /></p>\n<p><span style=\"background-color: #eccafa;\"><strong>Paso 3: Crear la Nube de Puntos y la Recta de Regresión</strong></span><br /></p>\n<ol>\n<li>Seleccionad con el ratón las dos columnas completas con los datos: la columna de Horas de móvil (X) y la de Nota media (Y).</li>\n<li>Id al menú superior: Insertar ➔ Gráfico.</li>\n<li>En el panel de la derecha (Editor de gráficos), buscad la opción \"Tipo de gráfico\" y cambiadlo a \"Gráfico de dispersión\" (veréis que aparecen vuestros puntos flotando).</li>\n<li>Para añadir la recta, id a la pestaña Personalizar ➔ Serie.</li>\n<li>Bajad un poco y activad la casilla \"Línea de tendencia\" (¡esta es vuestra recta de regresión!).</li>\n<li>Justo debajo, en Etiqueta, seleccionad \"Usar ecuación\" y activad también la casilla \"Mostrar \\(R^2\\)\".</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobr-mcl0prgvj</odePageId>
+      <odeBlockId>block-1779953313989-nqo0kvk3u</odeBlockId>
+      <blockName>Consulta el material</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobr-mcl0prgvj</odePageId>
+          <odeBlockId>block-1779953313989-nqo0kvk3u</odeBlockId>
+          <odeIdeviceId>idevice-1779953313967-4c6t4ucat</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Os habéis atascado con algún menú de Google Sheets o con alguna parte teórica del laboratorio de estadística? No os preocupéis, aquí tenéis una recopilación de <span style="background-color: #eccafa;"><strong>videotutoriales cortos</strong></span>, <strong><span style="background-color: #eccafa;">guías rápidas</span></strong>, <span style="background-color: #eccafa;"><strong>herramientas digitales</strong></span> y <strong><span style="background-color: #eccafa;">plantillas</span></strong> preparadas en Padlet para que podáis resolver todas aquellas dudas que os encontréis por el camino.</p>
+<p><br /></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/usowi2a0ox4jiwsh" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779953313967-4c6t4ucat","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Os habéis atascado con algún menú de Google Sheets o con alguna parte teórica del laboratorio de estadística? No os preocupéis, aquí tenéis una recopilación de <span style=\"background-color: #eccafa;\"><strong>videotutoriales cortos</strong></span>, <strong><span style=\"background-color: #eccafa;\">guías rápidas</span></strong>, <span style=\"background-color: #eccafa;\"><strong>herramientas digitales</strong></span> y <strong><span style=\"background-color: #eccafa;\">plantillas</span></strong> preparadas en Padlet para que podáis resolver todas aquellas dudas que os encontréis por el camino.</p>\n<p><br /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/usowi2a0ox4jiwsh\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobr-fgslhwt3k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Divulgamos nuestra investigación. El gran reto de ser un buen periodista</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Divulgamos nuestra investigación. El gran reto de ser un buen periodista</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Divulgamos. El gran reto de ser un buen periodista</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Divulgamos nuestra investigación. El gran reto de ser un buen periodista</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobr-fgslhwt3k</odePageId>
+      <odeBlockId>block-mplezspw-0nfla8jk3</odeBlockId>
+      <blockName>Objetivos de la tarea final</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobr-fgslhwt3k</odePageId>
+          <odeBlockId>block-mplezspw-0nfla8jk3</odeBlockId>
+          <odeIdeviceId>idevice-mplezspw-77hxmenwv</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><h5 style="text-align: justify;"><strong><span style="background-color: #eccafa;">En esta tarea aprenderás a:</span></strong><br></h5>
+<ul>
+<li style="text-align: justify;">Comunicar ciencia: sintetizar datos estadísticos complejos y transformarlos en un artículo periodístico comprensible para todo el mundo.</li>
+<li style="text-align: justify;">Redactar con impacto: diseñar titulares atractivos y estructuras de texto que enganchen a los lectores.</li>
+<li style="text-align: justify;">Argumentar con evidencias: utilizar gráficos de nubes de puntos y rectas de regresión como pruebas científicas en tu argumentación.</li>
+<li style="text-align: justify;">Coordinarte en tu equipo cooperativo repartiendo roles periodísticos (redactor, analista de datos, diseñador gráfico)</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobr-fgslhwt3k</odePageId>
+      <odeBlockId>block-1779955787947-036gywo6b</odeBlockId>
+      <blockName>Tarea final: Artículo Periodístico</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobr-fgslhwt3k</odePageId>
+          <odeBlockId>block-1779955787947-036gywo6b</odeBlockId>
+          <odeIdeviceId>idevice-1779955787945-qei807ztj</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¡Ya habéis completado la investigación en el laboratorio de estadística con el ordenador! Tenéis vuestros gráficos de dispersión creados y vuestra recta de regresión calculada. Pero la ciencia de datos no sirve de nada si se queda guardada en un ordenador.&nbsp;</p>
+<div class="exe-fx exe-tabs">
+<h2>Línea temporal del proyecto</h2>
+<p><img src="{{context_path}}/content/resources/Línea Temporal - Proyecto.jpg" title="Línea temporal del proyecto" width="1920" height="1080" alt="Tareas ordenadas cronológicamente"></p>
+<h2>¿De qué tratará la tarea final?&nbsp;</h2>
+<p>Os vais a convertir en periodistas. Cada equipo redactará un<strong> artículo periodístico de divulgación científica </strong>en base al estudio estadístico realizado para poder usarlo posteriormente como plan lector en dicho curso.</p>
+<h2>¿Qué debe incluir la tarea final?</h2>
+<p>Un artículo periodístico debe tener la siguiente estructura:</p>
+<ol>
+<li>
+<p>Titular Impactante: Nada de "Tarea de matemáticas". Buscad algo sugerente basado en vuestros resultados (Ej: "El 40% de 4º de la ESO pasa más de 5 horas pegado al móvil").</p>
+</li>
+<li>
+<p>Introducción: Explicad brevemente qué os motivó a investigar el tema y cuál era vuestra hipótesis inicial.</p>
+</li>
+<li>
+<p>Metodología: Contad de forma atractiva cómo pasasteis la encuesta anónima por Classroom, a cuántos alumnos lograsteis entrevistar.</p>
+</li>
+<li>
+<p>Cuerpo: Insertad una captura de pantalla del gráfico de dispersión que creasteis en Google Sheets y explicad con palabras sencillas:</p>
+<p>- Qué tipo de correlación habéis descubierto (¿positiva, negativa o nula?).</p>
+<p>- Cuál es la ecuación de vuestra recta de regresión.</p>
+<p>- El valor de \(R^2\) y si vuestra fórmula es fiable o no para predecir el futuro.</p>
+</li>
+<li>
+<p>Conclusiones: Despedid el artículo respondiendo a la gran pregunta: ¿Es un mito o una realidad? Proponed consejos reales para vuestros compañeros basados en lo que dicen los datos.</p>
+</li>
+</ol>
+<h2>Roles en vuestro grupo</h2>
+<p>Para que el trabajo fluya, os recomiendo asignar estos roles en vuestro grupo de investigación:</p>
+<ul>
+<li><strong>Analista de datos:</strong> Se encarga de transferir el gráfico limpio de Google Sheets al artículo y asegurar que las fórmulas matemáticas están bien escritas.</li>
+<li><strong>Redactor/a:</strong>&nbsp;Da forma al texto, cuida la ortografía y se asegura de que el tono sea periodístico y divulgativo.</li>
+<li><strong>Diseñador/a de maquetación:</strong> Elige la tipografía, limpia los espacios y vigila que la estética visual del artículo sea atractiva.</li>
+</ul>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. ¿Cómo se valorará el proyecto?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ¿Cómo se valorará el proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ¿Cómo se valorará mi trabajo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. ¿Cómo se valorará el proyecto?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+      <odeBlockId>block-mplezspw-prpfalcn4</odeBlockId>
+      <blockName>Instrucciones para la entrega</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+          <odeBlockId>block-mplezspw-prpfalcn4</odeBlockId>
+          <odeIdeviceId>idevice-mplezspw-vwppsk1wz</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para entregar la tarea, se debe tener en cuenta lo siguiente:</p>
+<ol style="list-style-type: lower-alpha;">
+<li><span style="background-color: #eccafa;">Nombrar</span> el archivo de tu hoja de cálculo siguiendo este esquema: "<strong>NumeroGrupo</strong>_<strong>Nombre1_Nombre2_Nombre3</strong>"</li>
+<li><span style="background-color: #eccafa;">Nombrar</span> el archivo de tu artículo periodístico siguiendo este esquema: "<strong>NumeroGrupo_Noticia</strong>"</li>
+<li>El portavoz del grupo debe <span style="background-color: #eccafa;">subir en Google Classroom</span> ambos archivos en la tarea habilitada para ello.</li>
+</ol></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+      <odeBlockId>block-mplezspx-n0w3vt76s</odeBlockId>
+      <blockName>Evaluación de la tarea</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+          <odeBlockId>block-mplezspx-n0w3vt76s</odeBlockId>
+          <odeIdeviceId>idevice-mplezspx-gxm50d7q5</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Evaluar no es solo calificar; es una herramienta para que sepáis en todo momento si vais por el buen camino o qué aspectos podéis mejorar antes de la entrega final.</p>
+<p>Para que el proceso sea 100% transparente, utilizaremos las siguientes <strong>dos herramientas de evaluación</strong> que tenéis detalladas a continuación con sus correspondientes <strong>indicadores de logro</strong>:</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+      <odeBlockId>block-mplezspx-6ukn3nj27</odeBlockId>
+      <blockName>Evaluando el trabajo realizado con la hoja de cálculo</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+          <odeBlockId>block-mplezspx-6ukn3nj27</odeBlockId>
+          <odeIdeviceId>idevice-mplezspx-eqkk35x0g</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-mplezspx-eqkk35x0g%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20%28hoja%20de%20c%E1lculo%29%22%2C%22categories%22%3A%5B%22Organizar%20y%20depurar%20datos%22%2C%22Representar%20gr%E1ficamente%22%2C%22Modelizar%22%5D%2C%22scores%22%3A%5B%22Nivel%201%20%28insuficiente%29%22%2C%22Nivel%202%20%28en%20proceso%29%22%2C%22Nivel%203%20%28competente%29%22%2C%22Nivel%204%20%28excelente%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Los%20datos%20est%E1n%20desordenados%2C%20contienen%20errores%20y%20no%20se%20han%20filtrado%20las%20respuestas%20incoherentes%20de%20la%20encuesta.%22%7D%2C%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Los%20datos%20est%E1n%20en%20la%20hoja%20de%20c%E1lculo%2C%20pero%20la%20estructura%20o%20formato%20dificulta%20el%20an%E1lisis%20bidimensional%20automatizado.%22%7D%2C%7B%22weight%22%3A%227.5%22%2C%22text%22%3A%22Organiza%20los%20datos%20correctamente%20en%20columnas%20pareadas%20por%20variables%20%28tiempo%20de%20pantalla%20vs%20nota%20media%29%20y%20limpia%20errores%20menores.%22%7D%2C%7B%22weight%22%3A%2210%22%2C%22text%22%3A%22Estructura%20de%20forma%20impecable%20los%20datos%2C%20aplicando%20formatos%20condicionales%20para%20resaltar%20visualmente%20valores%20extremos%20o%20at%EDpicos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20genera%20el%20gr%E1fico%20o%20el%20tipo%20de%20gr%E1fico%20elegido%20no%20corresponde%20en%20absoluto%20a%20una%20distribuci%F3n%20bidimensional.%22%7D%2C%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Genera%20el%20diagrama%20de%20dispersi%F3n%2C%20pero%20carece%20de%20t%EDtulos%20en%20los%20ejes%2C%20escalas%20adecuadas%20o%20leyendas%20que%20faciliten%20su%20lectura.%22%7D%2C%7B%22weight%22%3A%227.5%22%2C%22text%22%3A%22Genera%20un%20diagrama%20de%20dispersi%F3n%20correcto%20que%20muestra%20con%20claridad%20la%20relaci%F3n%20visual%20entre%20ambas%20variables.%22%7D%2C%7B%22weight%22%3A%2210%22%2C%22text%22%3A%22Dise%F1a%20una%20nube%20de%20puntos%20%F3ptima%2C%20personalizando%20estilos%20visuales%20e%20incluyendo%20etiquetas%20claras%20para%20cada%20eje%20de%20coordenadas.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20calcula%20la%20recta%20de%20regresi%F3n%20del%20modelo%20ni%20comprende%20la%20utilidad%20del%20ajuste%20lineal%20en%20un%20estudio%20estad%EDstico.%22%7D%2C%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Muestra%20la%20recta%20en%20el%20gr%E1fico%20de%20forma%20automatizada%2C%20pero%20es%20incapaz%20de%20extraer%20o%20escribir%20la%20ecuaci%F3n%20matem%E1tica%20correspondiente.%22%7D%2C%7B%22weight%22%3A%227.5%22%2C%22text%22%3A%22Calcula%20y%20muestra%20en%20el%20gr%E1fico%20la%20ecuaci%F3n%20de%20la%20recta%20de%20regresi%F3n%20lineal%20y%20el%20coeficiente%20de%20determinaci%F3n%20%28R%5E2%29%20usando%20el%20software.%22%7D%2C%7B%22weight%22%3A%2210%22%2C%22text%22%3A%22Calcula%20la%20recta%2C%20analiza%20cr%EDticamente%20el%20valor%20de%20R%5E2%20y%20deduce%20matem%E1ticamente%20el%20grado%20y%20tipo%20de%20dependencia%20de%20las%20variables.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20%28hoja%20de%20c%E1lculo%29%22%2C%22categories%22%3A%5B%22Organizar%20y%20depurar%20datos%22%2C%22Representar%20gr%E1ficamente%22%2C%22Modelizar%22%5D%2C%22scores%22%3A%5B%22Nivel%201%20%28insuficiente%29%22%2C%22Nivel%202%20%28en%20proceso%29%22%2C%22Nivel%203%20%28competente%29%22%2C%22Nivel%204%20%28excelente%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Los%20datos%20est%E1n%20desordenados%2C%20contienen%20errores%20y%20no%20se%20han%20filtrado%20las%20respuestas%20incoherentes%20de%20la%20encuesta.%22%7D%2C%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Los%20datos%20est%E1n%20en%20la%20hoja%20de%20c%E1lculo%2C%20pero%20la%20estructura%20o%20formato%20dificulta%20el%20an%E1lisis%20bidimensional%20automatizado.%22%7D%2C%7B%22weight%22%3A%227.5%22%2C%22text%22%3A%22Organiza%20los%20datos%20correctamente%20en%20columnas%20pareadas%20por%20variables%20%28tiempo%20de%20pantalla%20vs%20nota%20media%29%20y%20limpia%20errores%20menores.%22%7D%2C%7B%22weight%22%3A%2210%22%2C%22text%22%3A%22Estructura%20de%20forma%20impecable%20los%20datos%2C%20aplicando%20formatos%20condicionales%20para%20resaltar%20visualmente%20valores%20extremos%20o%20at%EDpicos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20genera%20el%20gr%E1fico%20o%20el%20tipo%20de%20gr%E1fico%20elegido%20no%20corresponde%20en%20absoluto%20a%20una%20distribuci%F3n%20bidimensional.%22%7D%2C%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Genera%20el%20diagrama%20de%20dispersi%F3n%2C%20pero%20carece%20de%20t%EDtulos%20en%20los%20ejes%2C%20escalas%20adecuadas%20o%20leyendas%20que%20faciliten%20su%20lectura.%22%7D%2C%7B%22weight%22%3A%227.5%22%2C%22text%22%3A%22Genera%20un%20diagrama%20de%20dispersi%F3n%20correcto%20que%20muestra%20con%20claridad%20la%20relaci%F3n%20visual%20entre%20ambas%20variables.%22%7D%2C%7B%22weight%22%3A%2210%22%2C%22text%22%3A%22Dise%F1a%20una%20nube%20de%20puntos%20%F3ptima%2C%20personalizando%20estilos%20visuales%20e%20incluyendo%20etiquetas%20claras%20para%20cada%20eje%20de%20coordenadas.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20calcula%20la%20recta%20de%20regresi%F3n%20del%20modelo%20ni%20comprende%20la%20utilidad%20del%20ajuste%20lineal%20en%20un%20estudio%20estad%EDstico.%22%7D%2C%7B%22weight%22%3A%225%22%2C%22text%22%3A%22Muestra%20la%20recta%20en%20el%20gr%E1fico%20de%20forma%20automatizada%2C%20pero%20es%20incapaz%20de%20extraer%20o%20escribir%20la%20ecuaci%F3n%20matem%E1tica%20correspondiente.%22%7D%2C%7B%22weight%22%3A%227.5%22%2C%22text%22%3A%22Calcula%20y%20muestra%20en%20el%20gr%E1fico%20la%20ecuaci%F3n%20de%20la%20recta%20de%20regresi%F3n%20lineal%20y%20el%20coeficiente%20de%20determinaci%F3n%20%28R%5E2%29%20usando%20el%20software.%22%7D%2C%7B%22weight%22%3A%2210%22%2C%22text%22%3A%22Calcula%20la%20recta%2C%20analiza%20cr%EDticamente%20el%20valor%20de%20R%5E2%20y%20deduce%20matem%E1ticamente%20el%20grado%20y%20tipo%20de%20dependencia%20de%20las%20variables.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="title"><em>Rúbrica (hoja de cálculo)</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-text-after"><p>Hoja de cálculo (Google Sheets)</p></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data">%3Cp%3EHoja%20de%20c%E1lculo%20%28Google%20Sheets%29%3C/p%3E</span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+      <odeBlockId>block-1780152197959-gsa8beqlq</odeBlockId>
+      <blockName>Evaluando el artículo periodístico</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobs-48ey5e3s7</odePageId>
+          <odeBlockId>block-1780152197959-gsa8beqlq</odeBlockId>
+          <odeIdeviceId>idevice-1780152197956-kc1bwii8v</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A3%A7%A0%A3%AB%A5%AB%A7%A4%BF%F9%F1%A3%F0%E5%FB%FB%AA%E4%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%D3%E0%E6%7F%F1%E7%FE%FD%B2%E2%F7%E0%FB%FD%F6%7F%E1%E6%FB%F1%FD%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A1%A1%F7%F1%F4%F3%A6%A4%BF%A5%F4%F4%F4%BF%A1%F0%F3%A0%BF%A2%A3%A1%F6%BF%F4%A3%F4%A1%A6%F7%F0%F7%A3%A3%F1%A2%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A2%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%D3%E0%FB%F3%FE%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%B2%A5%A2%A2%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%FC%E7%FF%F7%E0%FB%F1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%F3%E1%E6%BF%F3%E1%FB%F3%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F3%FE%E6%F7%E0%FC%F3%E6%F7%E1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%FF%FD%F8%FB%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%BF%F1%FD%FE%FE%F3%E2%E1%F7%A8%B2%E2%E0%F7%E1%F7%E0%E4%F7%A9%CE%B0%AC%D7%FE%B2%E6%F7%EA%E6%FD%B2%E2%E0%F7%E1%F7%FC%E6%F3%B2%FE%F3%B2%F7%E1%E6%E0%E7%F1%E6%E7%E0%F3%B2%F4%FD%E0%FF%F3%FE%B2%F6%F7%B2%E7%FC%F3%B2%FC%FD%E6%FB%F1%FB%F3%B2%BA%E6%FB%E6%E7%FE%F3%E0%B2%F6%F7%B2%FB%FF%E2%F3%F1%E6%FD%BE%B2%F7%FC%E6%E0%F3%F6%FB%FE%FE%F3%B2%EB%B2%F1%E7%F7%E0%E2%FD%BB%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F4%AA%AA%A5%AB%A3%F7%F6%BF%A5%F4%F4%F4%BF%A2%A4%A1%F0%BF%A3%A2%A6%F4%BF%AB%AB%A3%A3%A7%AB%A7%A1%F0%A7%A4%A0%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A2%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%D3%E0%FB%F3%FE%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%B2%A5%A2%A2%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%FC%E7%FF%F7%E0%FB%F1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%F3%E1%E6%BF%F3%E1%FB%F3%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F3%FE%E6%F7%E0%FC%F3%E6%F7%E1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%FF%FD%F8%FB%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%BF%F1%FD%FE%FE%F3%E2%E1%F7%A8%B2%E2%E0%F7%E1%F7%E0%E4%F7%A9%CE%B0%AC%D7%FE%B2%F6%FD%F1%E7%FF%F7%FC%E6%FD%B2%FF%E7%F7%E1%E6%E0%F3%B2%E7%FC%B2%E7%E1%FD%B2%F3%E4%F3%FC%E8%F3%F6%FD%B2%F6%F7%FE%B2%E2%E0%FD%F1%F7%E1%F3%F6%FD%E0%B2%F6%F7%B2%E6%F7%EA%E6%FD%E1%B2%BA%F7%E1%E6%FB%FE%FD%E1%B2%F6%F7%B2%E6%F7%EA%E6%FD%B2%E7%FC%FB%F4%FD%E0%FF%F7%E1%BE%B2%F3%FE%FB%FC%F7%F3%F1%FBa%FC%B2%F1%FD%E0%E0%F7%F1%E6%F3%BE%B2%FB%FC%E1%F7%E0%F1%FBa%FC%B2%F6%F7%B2%FB%FFs%F5%F7%FC%F7%E1%B2%F1%FD%FC%B2%E2%FB%F7%B2%F6%F7%B2%F4%FD%E6%FD%BB%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F1%A0%A1%A4%A6%A2%F3%F6%BF%A5%F4%F4%F4%BF%A7%F3%F1%F1%BF%A0%AA%F1%A3%BF%A3%A3%F6%A4%A6%F1%F7%F1%A4%F4%F3%A0%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A2%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%D3%E0%FB%F3%FE%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%B2%A5%A2%A2%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%FC%E7%FF%F7%E0%FB%F1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%F3%E1%E6%BF%F3%E1%FB%F3%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F3%FE%E6%F7%E0%FC%F3%E6%F7%E1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%FF%FD%F8%FB%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%BF%F1%FD%FE%FE%F3%E2%E1%F7%A8%B2%E2%E0%F7%E1%F7%E0%E4%F7%A9%CE%B0%AC%DB%FC%E1%F7%E0%E6%F3%B2%FE%F3%B2%FC%E7%F0%F7%B2%F6%F7%B2%E2%E7%FC%E6%FD%E1%B2%EB%B2%FE%F3%B2%E0%F7%F1%E6%F3%B2%F6%F7%B2%E0%F7%F5%E0%F7%E1%FBa%FC%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%FE%FB%FF%E2%FB%F3%B2%F7%FC%B2%F7%FE%B2%F1%E7%F7%E0%E2%FD%B2%F6%F7%FE%B2%E6%F7%EA%E6%FD%BE%B2%E0%F7%F4%F7%E0%F7%FC%F1%FBs%FC%F6%FD%FE%FD%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%F6%F7%FC%E6%E0%FD%B2%F6%F7%B2%FE%F3%B2%FE%F7%F1%E6%E7%E0%F3%BC%B2%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A6%A1%F7%F4%A2%A7%A1%AB%BF%A5%F4%F4%F4%BF%A4%F4%A5%A4%BF%F3%F0%A7%AA%BF%F6%F1%F3%F7%A5%A1%AA%A2%A6%A5%A4%A2%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A2%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%D3%E0%FB%F3%FE%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%B2%A5%A2%A2%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%FC%E7%FF%F7%E0%FB%F1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%F3%E1%E6%BF%F3%E1%FB%F3%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F3%FE%E6%F7%E0%FC%F3%E6%F7%E1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%FF%FD%F8%FB%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%BF%F1%FD%FE%FE%F3%E2%E1%F7%A8%B2%E2%E0%F7%E1%F7%E0%E4%F7%A9%CE%B0%AC%D1%FD%FC%E1%FB%F5%E7%F7%B2%F7%EA%E2%FE%FB%F1%F3%E0%B2%F1%FD%FC%F1%F7%E2%E6%FD%E1%B2%E6%7B%F1%FC%FB%F1%FD%E1%B2%BA%F1%FD%FF%FD%B2%FE%F3%B2%F1%FD%E0%E0%F7%FE%F3%F1%FBa%FC%B2%FD%B2%FE%F3%B2%E6%F7%FC%F6%F7%FC%F1%FB%F3%BB%B2%F7%FF%E2%FE%F7%F3%FC%F6%FD%B2%E7%FC%B2%FE%F7%FC%F5%E7%F3%F8%F7%B2%F1%FE%F3%E0%FD%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A1%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A7%A0%A4%A1%A1%A0%A2%F0%BF%A5%F4%F4%F4%BF%AB%A2%A7%AA%BF%A5%A3%F0%A2%BF%A3%A2%F1%A2%A7%A6%A6%F6%F7%F3%A0%A0%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A2%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%D3%E0%FB%F3%FE%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%B2%A5%A2%A2%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%FC%E7%FF%F7%E0%FB%F1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%F3%E1%E6%BF%F3%E1%FB%F3%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F3%FE%E6%F7%E0%FC%F3%E6%F7%E1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%FF%FD%F8%FB%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%BF%F1%FD%FE%FE%F3%E2%E1%F7%A8%B2%E2%E0%F7%E1%F7%E0%E4%F7%A9%CE%B0%AC%D6%FB%E1%E6%FB%FC%F5%E7%F7%B2%F1%FD%FC%B2%F1%FE%F3%E0%FB%F6%F3%F6%B2%EB%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F7%EA%E2%FE%7F%F1%FB%E6%F3%B2%FE%F3%B2%F7%EA%FB%E1%E6%F7%FC%F1%FB%F3%B2%FD%B2%FB%FC%F7%EA%FB%E1%E6%F7%FC%F1%FB%F3%B2%F6%F7%B2%F1%FD%E0%E0%F7%FE%F3%F1%FBa%FC%B2%FF%F3%E6%F7%FFs%E6%FB%F1%F3%BC%B2%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A1%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A6%A7%F7%A6%A3%F6%F3%F0%BF%A5%F4%F4%F4%BF%F3%F4%A1%A7%BF%F1%F3%A5%F1%BF%A6%A5%A3%A4%AA%A4%AB%AB%A6%A5%F7%A3%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A2%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%D3%E0%FB%F3%FE%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%B2%A5%A2%A2%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%FC%E7%FF%F7%E0%FB%F1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%F3%E1%E6%BF%F3%E1%FB%F3%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F3%FE%E6%F7%E0%FC%F3%E6%F7%E1%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%BF%F7%FF%FD%F8%FB%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%BF%F1%FD%FE%FE%F3%E2%E1%F7%A8%B2%E2%E0%F7%E1%F7%E0%E4%F7%A9%CE%B0%AC%D7%FE%B2%E6%FB%E6%E7%FE%F3%E0%B2%EB%B2%FE%F3%E1%B2%F1%FD%FC%F1%FE%E7%E1%FB%FD%FC%F7%E1%B2%F6%F7%B2%FE%F3%B2%FC%FD%E6%FB%F1%FB%F3%B2%E0%F7%F4%FE%F7%F8%F3%FC%B2%F4%FB%F7%FE%FF%F7%FC%E6%F7%B2%F7%FE%B2%E4%F3%FE%FD%E0%B2%F6%F7%B2%FE%FD%E1%B2%F1%FD%F7%F4%FB%F1%FB%F7%FC%E6%F7%E1%B2%FD%F0%E6%F7%FC%FB%F6%FD%E1%B2%BA%C0%CC%A0%BB%BE%B2%F7%E4%FB%E6%F3%FC%F6%FD%B2%F7%EA%F3%F5%F7%E0%F3%F1%FB%FD%FC%F7%E1%B2%FD%B2%E1%F7%E1%F5%FD%E1%B2%F6%F7%B2%FD%E2%FB%FC%FBa%FC%B2%FC%FD%B2%E0%F7%E1%E2%F3%FE%F6%F3%F6%FD%E1%B2%E2%FD%E0%B2%FE%F3%B2%FF%E7%F7%E1%E6%E0%F3%B2%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+      <odeBlockId>block-1780229455372-wzx6wbpbm</odeBlockId>
+      <blockName>Justificación de la propuesta</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+          <odeBlockId>block-1780229455372-wzx6wbpbm</odeBlockId>
+          <odeIdeviceId>idevice-1780229455361-glb4msslb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto (<span style="background-color: #eccafa;">"<strong>Investigamos y divulgamos</strong>"</span>) une la estadística descriptiva bidimensional con el pensamiento crítico ante los medios de comunicación. El alumnado no solo aprende a calcular parámetros matemáticos (correlación, recta de regresión), sino que lo conecta con su utilidad real al investigar si existe una relación causa-efecto entre las variables estadísticas que sean de su interés.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780229455361-glb4msslb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto (<span style=\"background-color: #eccafa;\">\"<strong>Investigamos y divulgamos</strong>\"</span>) une la estadística descriptiva bidimensional con el pensamiento crítico ante los medios de comunicación. El alumnado no solo aprende a calcular parámetros matemáticos (correlación, recta de regresión), sino que lo conecta con su utilidad real al investigar si existe una relación causa-efecto entre las variables estadísticas que sean de su interés.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+      <odeBlockId>block-mplezspx-rwysj1z3j</odeBlockId>
+      <blockName>Concreción curricular</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+          <odeBlockId>block-mplezspx-rwysj1z3j</odeBlockId>
+          <odeIdeviceId>idevice-mplezspx-tsdlvuaho</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><h2><span style="color: #000000;">Competencias clave</span></h2>
+<ul style="list-style-type: circle;">
+<li><span style="color: #000000;">STEM: Competencia en ciencia, tecnología, ingeniería y matemáticas (tratamiento de datos y modelización).</span></li>
+<li><span style="color: #000000;">CD: Competencia Digital (uso de Google Sheets, formularios y maquetación digital).</span></li>
+<li><span style="color: #000000;">CCL: Competencia en Comunicación Lingüística (redacción del artículo periodístico).</span></li>
+<li><span style="color: #000000;">CPSAA: Competencia Personal, Social y de Aprender a Aprender (trabajo cooperativo).</span><span style="color: #000000;"></span></li>
+</ul>
+<h2><span style="color: #000000;"></span><br></h2>
+<p><span style="color: #000000;"></span><br></p>
+<h2><span style="color: #000000;">Metodología y Principios DUA (Diseño Universal del Aprendizaje)</span></h2>
+<p>El proyecto se basa en el <strong>Aprendizaje Basado en Proyectos</strong> (ABP) y el <strong>Aprendizaje Cooperativo</strong>.</p>
+<p>Para atender a la diversidad del aula se aplican las siguientes pautas DUA:</p>
+<ul>
+<li style="text-align: justify;"><strong>Múltiples formas de implicación:</strong> Roles dentro del equipo (Analista, Redactor, Diseñador) para que cada alumno aporte según sus fortalezas.</li>
+<li style="text-align: justify;"><strong>Múltiples formas de representación:</strong> La información se presenta mediante texto y vídeos explicativos agrupados en el tablero de curación.</li>
+<li style="text-align: justify;"><strong>Múltiples formas de acción y expresión: </strong>El alumnado demuestra su aprendizaje tanto de forma matemática (fórmulas y gráficos automatizados) como lingüística (redacción periodística).</li>
+</ul>
+<h2><br></h2>
+<h2><span style="color: #000000;">Relación de las tareas con los criterios de evaluación, el tipo de agrupamiento, el tiempo dedicado y los recursos utilizados en cada una de ellas.</span></h2>
+<table class="exe-table" style="width: 100%;">
+<thead>
+<tr>
+<th>Tarea</th>
+<th>Criterio de Evaluación</th>
+<th>Agrupamiento</th>
+<th>Tiempo</th>
+<th>Herramienta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Identificación de variables y selección de muestra</strong><br>Definición de las variables bidimensionales y diseño del grupo de muestra.</td>
+<td><strong>1.1.</strong> Reformular de forma verbal y gráfica problemas matemáticos, interpretando los datos, las relaciones entre ellos y las preguntas planteadas.</td>
+<td>Gran grupo / Pequeños equipos</td>
+<td>1 sesión (15/20 min)</td>
+<td>Google Forms</td>
+</tr>
+<tr>
+<td><strong>2. Lanzamiento del formulario</strong><br>Difusión y recogida de datos con las dos preguntas seleccionadas.</td>
+<td><strong>7.2.</strong> Seleccionar entre diferentes herramientas, incluidas las digitales, y formas de representación valorando su utilidad para compartir información.</td>
+<td>Equipos cooperativos</td>
+<td>Fuera de clase (15 min)</td>
+<td>Google Classroom</td>
+</tr>
+<tr>
+<td><strong>3. Descarga y organización de respuestas</strong><br>Tratamiento de los datos obtenidos y organización en tablas de frecuencias.</td>
+<td><strong>6.1.</strong> Proponer situaciones susceptibles de ser resueltas mediante herramientas matemáticas, aplicando conexiones con el mundo real.</td>
+<td>Equipos cooperativos</td>
+<td>1 sesión</td>
+<td>Google Sheets</td>
+</tr>
+<tr>
+<td><strong>4. Nube de puntos y recta de regresión</strong><br>Generación digital del diagrama de dispersión y cálculo de la línea de tendencia.</td>
+<td><strong>4.1.</strong> Generalizar patrones y proporcionar una representación computacional de situaciones problematizadas.</td>
+<td>Equipos cooperativos</td>
+<td>2 sesiones</td>
+<td>Google Sheets</td>
+</tr>
+<tr>
+<td><strong>5. Interpretación de resultados</strong><br>Análisis crítico, discusión grupal sobre si la dependencia es fuerte o débil y extracción de conclusiones.</td>
+<td><strong>1.1.</strong> Reformular de forma verbal y gráfica problemas matemáticos, interpretando los datos, las relaciones entre ellos y las preguntas planteadas.</td>
+<td>Equipos cooperativos</td>
+<td>1 sesión</td>
+<td>Google Docs o Papel</td>
+</tr>
+<tr>
+<td><strong>6. Creación de la noticia periodística</strong><br>Redacción y maquetación final del artículo de divulgación que muestra los gráficos.</td>
+<td><strong>8.1.</strong> Comunicar ideas, conclusiones y razonamientos matemáticos utilizando diferentes medios, incluidos los digitales, con claridad y terminología apropiada.</td>
+<td>Equipos cooperativos</td>
+<td>1 sesión</td>
+<td>Canva o Google Docs</td>
+</tr>
+</tbody>
+</table></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+      <odeBlockId>block-1780239693705-nkbz1wqu6</odeBlockId>
+      <blockName>Curación de contenidos para el docente</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobu-906l3rzlb</odePageId>
+          <odeBlockId>block-1780239693705-nkbz1wqu6</odeBlockId>
+          <odeIdeviceId>idevice-1780239693703-nmka5q52a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAARd-t9IAA41-5EZfdA==" title="Curación de contenidos en Symbaloo">https://www.symbaloo.com/shared/AAAAARd-t9IAA41-5EZfdA==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780239693703-nmka5q52a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAARd-t9IAA41-5EZfdA==\" title=\"Curación de contenidos en Symbaloo\">https://www.symbaloo.com/shared/AAAAARd-t9IAA41-5EZfdA==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpscaobu-y04ooly60</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpscaobu-y04ooly60</odePageId>
+      <odeBlockId>block-mplezspy-kdkxssi42</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobu-y04ooly60</odePageId>
+          <odeBlockId>block-mplezspy-kdkxssi42</odeBlockId>
+          <odeIdeviceId>idevice-mplezspy-3dtyd45gc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><br /></h1>
+<table class="exe-table" style="height: 92px;"><caption></caption>
+<tbody>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Título</th>
+<td style="width: 610.167px; height: 23px;"> "Investigamos y divulgamos"</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Descripción</th>
+<td style="width: 610.167px; height: 23px; text-align: justify;">Este recurso plantea un proyecto orientado al aprendizaje de las distintas tareas o competencias implicadas en un estudio estadístico bidimensional.</td>
+</tr>
+<tr>
+<th style="width: 224.633px;">Autoría</th>
+<td style="width: 610.167px;">Laura Antequera Pérez</td>
+</tr>
+<tr>
+<th style="width: 224.633px;">Persona coordinadora del curso</th>
+<td style="width: 610.167px;">Marian Gómez Román</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Organización</th>
+<td style="width: 610.167px; height: 23px;">Dirección General de Formación del Profesorado e Innovación Educativa. Consejería de Educación y Deporte. Junta de Andalucía.</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Licencia</th>
+<td style="width: 610.167px; height: 23px;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: right;"><img src="{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg" alt="Logo Andalucía se mueve con Europa" title="Logo Andalucía se mueve con Europa" width="299" height="79" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mplezspy-3dtyd45gc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><br /></h1>\n<table class=\"exe-table\" style=\"height: 92px;\"><caption></caption>\n<tbody>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Título</th>\n<td style=\"width: 610.167px; height: 23px;\"> \"Investigamos y divulgamos\"</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Descripción</th>\n<td style=\"width: 610.167px; height: 23px; text-align: justify;\">Este recurso plantea un proyecto orientado al aprendizaje de las distintas tareas o competencias implicadas en un estudio estadístico bidimensional.</td>\n</tr>\n<tr>\n<th style=\"width: 224.633px;\">Autoría</th>\n<td style=\"width: 610.167px;\">Laura Antequera Pérez</td>\n</tr>\n<tr>\n<th style=\"width: 224.633px;\">Persona coordinadora del curso</th>\n<td style=\"width: 610.167px;\">Marian Gómez Román</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Organización</th>\n<td style=\"width: 610.167px; height: 23px;\">Dirección General de Formación del Profesorado e Innovación Educativa. Consejería de Educación y Deporte. Junta de Andalucía.</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Licencia</th>\n<td style=\"width: 610.167px; height: 23px;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p style=\"text-align: right;\"><img src=\"{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg\" alt=\"Logo Andalucía se mueve con Europa\" title=\"Logo Andalucía se mueve con Europa\" width=\"299\" height=\"79\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpscaobu-y04ooly60</odePageId>
+      <odeBlockId>block-1780143818409-qo7oy9iuj</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpscaobu-y04ooly60</odePageId>
+          <odeBlockId>block-1780143818409-qo7oy9iuj</odeBlockId>
+          <odeIdeviceId>idevice-1780143818406-tuq3orrba</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p>Para poder descargar el archivo .elp pincha en el siguiente enlace de descarga</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
